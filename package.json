@@ -1,6 +1,7 @@
 {
-  "name": "video-player",
-  "version": "1.0.0",
+  "name": "aga-player",
+  "version": "2.0.0",
+  "description": "پخش کننده ویدیو آنلاین - توسط آقادنی",
   "type": "module",
   "scripts": {
     "start": "node server.js"
@@ -10,5 +11,7 @@
   },
   "engines": {
     "node": ">=18"
-  }
+  },
+  "author": "AgaDani",
+  "license": "MIT"
 }
